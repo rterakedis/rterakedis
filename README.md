@@ -21,19 +21,22 @@ Want to see some of my past work?   It's probably in one of these spots:
 ### my favorite tools 🛠
 
 * Visual Studio Code
+* Postman
 * ProxyMan
 * Termius
 * Paw
 * Tower
 * Visio Web (it's surprisingly *not that bad*)
-* Camtasia
+* Draw.io
+* Camtasia & Snag-it
 * Grammarly
 * Pixelmator Pro
+* Confluence & Jira (also *not that bad*)
 
 
 ### my history 🧭 
 
-Short story:  Grew up in a small town, graduated with degrees in business and pre-med, and have been working in the Finance, Healthcare, and Software industries ever since.  Married with 2 kiddos and loving it!
+Short story:  Grew up in a small town, graduated with degrees in business and pre-med, and have worked in the Finance, Healthcare, and Software industries ever since.  Married with 2 kiddos and loving it!
 
 ### my faves 👍🏻 
 * Family & Friends
