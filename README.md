@@ -13,6 +13,7 @@ Curious?  You can get more specifics on my [Linked-In profile](https://www.linke
 Want to see some of my past work?   It's probably in one of these spots:
 
 * [My Blog](https://blog.euc-rt.me)
+* [OneTrust Hands-On Labs](https://labs.onetrust.com)
 * [VMware EUC TechZone](https://techzone.vmware.com/users/robert-terakedis)
 * [VMware Technology Network](https://communities.vmware.com/t5/user/viewprofilepage/user-id/2235056)
 * [VMware EUC-Samples Repository](https://github.com/vmware-samples/euc-samples/)
