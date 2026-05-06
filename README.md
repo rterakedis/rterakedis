@@ -12,7 +12,7 @@ Curious?  You can get more specifics on my [Linked-In profile](https://www.linke
 
 Want to see some of my past work?   It's probably in one of these spots:
 
-* [My Blog](https://blog.euc-rt.me)
+* [My Blog](https://blog.terakedis.dev)
 * [OneTrust Hands-On Labs](https://labs.onetrust.com)
 * [VMware EUC TechZone](https://techzone.vmware.com/users/robert-terakedis)
 * [VMware Technology Network](https://communities.vmware.com/t5/user/viewprofilepage/user-id/2235056)
@@ -25,7 +25,6 @@ Want to see some of my past work?   It's probably in one of these spots:
 * Postman
 * ProxyMan
 * Termius
-* Paw
 * Tower
 * Visio Web (it's surprisingly *not that bad*)
 * Draw.io
