@@ -6,7 +6,7 @@ Currently focused on Azure-based AI architecture: vector search, LLM scoring rub
 
 **What I'm working on**
 
-[bmad-lite-skills](https://github.com/rterakedis/bmad-lite-skills) — my adaptation of the BMAD agentic development methodology, tailored for smaller context windows like Claude Pro. I use BMAD daily for structuring how I work with AI tools, and built bmad-lite to make that workflow shareable.
+[leanwheel-skills](https://github.com/rterakedis/leanwheel-skills) — my adaptation of the BMAD agentic development methodology, tailored for smaller context windows like Claude Pro. I use BMAD daily for structuring how I work with AI tools, and built leanwheel to make that workflow shareable.
 
 I also published a custom Atlassian Rovo agent for enterprise workflow automation — no public repo yet, but the work is real.
 
@@ -20,4 +20,4 @@ VS Code. GitHub Actions. Python.
 
 **Find me**
 
-[blog.terakedis.dev](https://blog.terakedis.dev) · [LinkedIn](https://www.linkedin.com/in/terakedis/) · [bmad-lite-skills](https://github.com/rterakedis/bmad-lite-skills)
+[blog.terakedis.dev](https://blog.terakedis.dev) · [LinkedIn](https://www.linkedin.com/in/terakedis/) · [leanwheel-skills](https://github.com/rterakedis/leanwheel-skills)
