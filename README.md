@@ -24,7 +24,7 @@ Start at **[blog.terakedis.dev](https://blog.terakedis.dev)**, or pick one:
 
 | | |
 |---|---|
-| Cloud and AI | Azure OpenAI, Azure AI Search, Durable Functions |
+| Cloud and AI | Azure OpenAI, Azure AI Search, Durable Functions, Cloudflare |
 | Languages | Python (preferred), PowerShell, Shell. Learning Go. |
 | AI-assisted work | Claude, Claude Code and Devin, used interchangeably for development, architecture thinking and documentation |
 | Research | Perplexity for research, Gemini as a search layer |
